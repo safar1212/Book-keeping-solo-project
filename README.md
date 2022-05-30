@@ -55,7 +55,7 @@ npx hint .
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://safar1212.github.io/Book-keeping-solo-project//issues).
+Feel free to check the [issues page](https://github.com/safar1212/Book-keeping-solo-project/issues).
 
 ## Show your support
 
