@@ -1,10 +1,10 @@
-# Book-keeping-site
+# Book-keeping-solo-site
 
 > This project is about building a book keeping website. Where folks can store their favortie book names. And can also delete those, whenever, needed.
 
 ## Live demo
 
-The website was build using Github Pages: [Live Version](https://safar1212.github.io/Book-keeping-site/)
+The website was build using Github Pages: [Live Version](https://safar1212.github.io/Book-keeping-solo-project/)
 
 ## Built With
 
@@ -22,7 +22,7 @@ The website was build using Github Pages: [Live Version](https://safar1212.githu
 
 
 
-git clone [https://github.com/safar1212/Book-keeping-site](https://github.com/safar1212/Book-keeping-site) <Your-Build-Directory>
+git clone [https://safar1212.github.io/Book-keeping-solo-project/](https://safar1212.github.io/Book-keeping-solo-project/) <Your-Build-Directory>
 
 ## Getting packages and debuging with Stylelint
 
@@ -50,16 +50,12 @@ npx hint .
 - GitHub: [@Safar Ali](https://github.com/safar1212)
 - LinkedIn: [Safar Ali](https://www.linkedin.com/in/safar-ali999/)
 
-👤 **Divine Charlotte**
-
-- GitHub: [@Divine](https://github.com/divinecharlotte)
-- LinkedIn: [Divine Charlotte](https://www.linkedin.com/in/safar-ali999/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/sentayhu19/Portfolio-setup-and-mobile-version-skeleton/issues).
+Feel free to check the [issues page](https://safar1212.github.io/Book-keeping-solo-project//issues).
 
 ## Show your support
 
@@ -67,7 +63,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
--This project was inspired by Microverse](https://www.microverse.org
+-This project was inspired by [Microverse](https://safar1212.github.io/Book-keeping-solo-project/)
 
 ## 📝 License
 
